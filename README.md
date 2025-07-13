@@ -23,4 +23,4 @@
     0_Preprocessing.ipynb - ноутбук для предобработки скаченного полного датасета;
     model_utils.py - файл архитектурой моделей и дополнительными функциями;
 
-Обработанный датасет доступен по ссылке: https://drive.google.com/file/d/1jpn53D-06GJpleuVwOWPeWQngFSytv37/view?usp=drive_link
+Обработанный датасет доступен по ссылке: https://drive.google.com/file/d/1tBZkHs2T_MtV9JbA1JpZpf9KHCGQlY_Y/view?usp=drive_link 
